@@ -1,0 +1,2 @@
+# DoNotStarveTogether
+server scripts

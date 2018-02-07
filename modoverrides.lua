@@ -1,0 +1,133 @@
+return {
+  ["workshop-1160616621"]={
+    configuration_options={ Language="chs", Ownership=false, Travel_Cost=64 },
+    enabled=true 
+  },
+  ["workshop-1280567941"]={
+    configuration_options={ alpha=0.25, chestwithsign=0, color=110, language=2 },
+    enabled=true 
+  },
+  ["workshop-362175979"]={ configuration_options={ ["Draw over FoW"]="enabled" }, enabled=true },
+  ["workshop-367546858"]={ configuration_options={ LANG="auto", SMALL_TEXTURES=true }, enabled=true },
+  ["workshop-374550642"]={ configuration_options={ MAXSTACKSIZE=99 }, enabled=true },
+  ["workshop-375850593"]={ configuration_options={  }, enabled=true },
+  ["workshop-378160973"]={
+    configuration_options={
+      ENABLEPINGS=true,
+      FIREOPTIONS=1,
+      OVERRIDEMODE=false,
+      SHAREMINIMAPPROGRESS=true,
+      SHOWFIREICONS=true,
+      SHOWPLAYERICONS=true,
+      SHOWPLAYERSOPTIONS=2 
+    },
+    enabled=true 
+  },
+  ["workshop-462434129"]={
+    configuration_options={
+      MOD_RESTART_ALLOW_KILL=true,
+      MOD_RESTART_ALLOW_RESTART=true,
+      MOD_RESTART_ALLOW_RESURRECT=true,
+      MOD_RESTART_CD_BONUS=0,
+      MOD_RESTART_CD_KILL=3,
+      MOD_RESTART_CD_MAX=0,
+      MOD_RESTART_CD_RESTART=5,
+      MOD_RESTART_CD_RESURRECT=7,
+      MOD_RESTART_FORCE_DROP_MODE=0,
+      MOD_RESTART_IGNORING_ADMIN=true,
+      MOD_RESTART_MAP_SAVE=2,
+      MOD_RESTART_RESURRECT_HEALTH=0,
+      MOD_RESTART_TRIGGER_MODE=1,
+      MOD_RESTART_WELCOME_TIPS=true,
+      MOD_RESTART_WELCOME_TIPS_TIME=6 
+    },
+    enabled=true 
+  },
+  ["workshop-358749986"]={
+    configuration_options={ IndicatorSize=3, MaxIndicator=7000, PlayerIndicators=1 },
+    enabled=true 
+  },
+  ["workshop-543945797"]={
+    configuration_options={
+      amount_of_numbers="default",
+      display_mode="straight",
+      dmg_only="on",
+      show_decimal_points="no" 
+    },
+    enabled=true 
+  },
+  ["workshop-545315736"]={ configuration_options={  }, enabled=true },
+  ["workshop-572538624"]={
+    configuration_options={
+      IS_CHS_ALL_MOD=true,
+      IS_CHS_CHARACTER=true,
+      IS_CHS_FIX_ALL=true,
+      IS_CHS_SETTINGS=true 
+    },
+    enabled=true 
+  },
+  ["workshop-606039272"]={
+    configuration_options={
+      ativar_portablecookpot="n",
+      ativar_surfboard="n",
+      ativar_walani="y",
+      ativar_warly="y",
+      ativar_wilbur="y",
+      ativar_wilburrun="y",
+      ativar_woodlegs="y",
+      ativar_worldgeneration="n",
+      ativarloja_armaduras="y",
+      ativarloja_armaseferramentas="y",
+      ativarloja_chapeus="y",
+      ativarloja_estruturas="y",
+      ativarloja_item="y",
+      ativarloja_roupas="y",
+      usarmod_extraequipslot="n" 
+    },
+    enabled=true 
+  },
+  ["workshop-666155465"]={
+    configuration_options={ food_estimation=0, food_order=1, food_style=2, lang="auto", show_food_units=0 },
+    enabled=true 
+  },
+  ["workshop-758532836"]={
+    configuration_options={
+      AUTOPAUSECONSOLE=true,
+      AUTOPAUSEMAP=true,
+      AUTOPAUSESINGLEPLAYERONLY=true,
+      ENABLECLIENTPAUSE=true,
+      ENABLEHOTKEY=true,
+      KEYBOARDTOGGLEKEY="P" 
+    },
+    enabled=true 
+  },
+  ["workshop-770901818"]={
+    configuration_options={ days=3, enable_houndattack=true, format="complex" },
+    enabled=true 
+  },
+  ["workshop-797304209"]={ configuration_options={  }, enabled=true },
+  ["workshop-938670116"]={
+    configuration_options={
+      automaticstacking=true,
+      eyeturretattackperiod=3,
+      eyeturretdamage=65,
+      eyeturrethealth=1000,
+      eyeturretrange=15,
+      eyeturretregen=12,
+      fridgekeepfresh="0",
+      houndiusshootiusrecycling=false,
+      krampussackice=false,
+      movablewormholes=false,
+      nothermalstonedurability=true,
+      quickpick=true,
+      range=20,
+      siestacanopyuses=6,
+      tentuses=10000000,
+      trapteethautoreset=true,
+      trapteethautoresettime=5,
+      trapteethdamage=60,
+      trapteethuses=10 
+    },
+    enabled=true 
+  } 
+}
